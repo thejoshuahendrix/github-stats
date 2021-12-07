@@ -133,9 +133,3 @@ releasing work publicly on the Web.
 - [The Internet Archive](https://archive.org/donate/index.php)
 
 
-# Related Projects
-
-- Inspired by a desire to improve upon
-  [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
-  match the GitHub UI
